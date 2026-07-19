@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300" role="img" aria-label="shweta@github info card">
+<style>.l{opacity:0;animation:type .5s ease both;}@keyframes type{from{opacity:0;transform:translateX(-8px);}to{opacity:1;transform:translateX(0);}}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1;}}</style>
+<rect x="0.5" y="0.5" width="489" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+<line x1="0" y1="40" x2="490" y2="40" stroke="#30363d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="245.0" y="25" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7d8590">shweta@github</text>
+<g class="l" style="animation-delay:0.25s"><text x="24" y="54" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">shweta@github — hi, I build things that ship</text></g>
+<g class="l" style="animation-delay:0.43s"><text x="24" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#39d353">Now</text><text x="96" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">AI &amp; Enterprise Transformation Intern @ PwC India</text></g>
+<g class="l" style="animation-delay:0.61s"><text x="24" y="102" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#39d353">Prev</text><text x="96" y="102" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">RAG pipelines &amp; LLM apps @ CereLabs</text></g>
+<g class="l" style="animation-delay:0.79s"><text x="24" y="126" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#58a6ff">Edu</text><text x="96" y="126" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">B.Tech CE (Hons. Data Science) · KJSCE '27</text></g>
+<g class="l" style="animation-delay:0.97s"><text x="24" y="150" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#bc8cff">Stack</text><text x="96" y="150" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Python · TypeScript · React · Spring Boot</text></g>
+<g class="l" style="animation-delay:1.15s"><text x="96" y="174" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7d8590">FastAPI · MongoDB · Docker · Azure</text></g>
+<g class="l" style="animation-delay:1.33s"><text x="24" y="198" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#ffa657">Builds</text><text x="96" y="198" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">FXBoard — live FX dashboard (React+Spring)</text></g>
+<g class="l" style="animation-delay:1.51s"><text x="96" y="222" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7d8590">CredDefer — HITL loan approvals w/ SHAP</text></g>
+<g class="l" style="animation-delay:1.69s"><text x="96" y="246" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7d8590">VoiceForm — speech → structured data</text></g>
+<g class="l" style="animation-delay:1.87s"><text x="24" y="270" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="bold" fill="#58a6ff">Focus</text><text x="96" y="270" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">data engineering · fintech · agentic AI</text></g>
+<rect x="24" y="283" width="8" height="14" fill="#39d353"><animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="2.05s" repeatCount="indefinite"/></rect>
+</svg>
